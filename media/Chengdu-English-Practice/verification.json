@@ -1,0 +1,88 @@
+{
+  "clips": [
+    {
+      "index": 1,
+      "title": "Back in China · 回到中国",
+      "duration": 22.045007,
+      "size_bytes": 6667336,
+      "video": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/clips/01-back-in-china-English.mp4",
+      "edge_decode": "passed"
+    },
+    {
+      "index": 2,
+      "title": "Pandas · 熊猫谷",
+      "duration": 191.9918,
+      "size_bytes": 66203034,
+      "video": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/clips/02-pandas-English.mp4",
+      "edge_decode": "passed"
+    },
+    {
+      "index": 3,
+      "title": "Chinese Folk Music · 中国民乐",
+      "duration": 97.9979,
+      "size_bytes": 32503621,
+      "video": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/clips/03-chinese-folk-music-English.mp4",
+      "edge_decode": "passed"
+    },
+    {
+      "index": 4,
+      "title": "Jinsha Site Museum · 金沙遗址博物馆",
+      "duration": 121.0209,
+      "size_bytes": 26985111,
+      "video": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/clips/04-jinsha-site-museum-English.mp4",
+      "edge_decode": "passed"
+    },
+    {
+      "index": 5,
+      "title": "Jinli Street · 锦里街",
+      "duration": 169.9698,
+      "size_bytes": 48256264,
+      "video": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/clips/05-jinli-street-English.mp4",
+      "edge_decode": "passed"
+    },
+    {
+      "index": 6,
+      "title": "Ancient Town and Tulou · 古镇与土楼",
+      "duration": 121.0209,
+      "size_bytes": 31498089,
+      "video": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/clips/06-ancient-town-and-tulou-English.mp4",
+      "edge_decode": "passed"
+    },
+    {
+      "index": 7,
+      "title": "Outfit and Dessert · 换装与甜点",
+      "duration": 176.9768,
+      "size_bytes": 62869323,
+      "video": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/clips/07-outfit-and-dessert-English.mp4",
+      "edge_decode": "passed"
+    },
+    {
+      "index": 8,
+      "title": "Hotpot · 火锅与鸭舌",
+      "duration": 126.0259,
+      "size_bytes": 32964333,
+      "video": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/clips/08-hotpot-English.mp4",
+      "edge_decode": "passed"
+    },
+    {
+      "index": 9,
+      "title": "Restaurant Performance and Tasting · 表演与品尝",
+      "duration": 140.974167,
+      "size_bytes": 28911566,
+      "video": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/clips/09-restaurant-performance-and-tasting-English.mp4",
+      "edge_decode": "passed"
+    },
+    {
+      "index": 10,
+      "title": "Goodbye, Chengdu · 结束语",
+      "duration": 38.972993,
+      "size_bytes": 11097237,
+      "video": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/clips/10-goodbye-chengdu-English.mp4",
+      "edge_decode": "passed"
+    }
+  ],
+  "total_clip_duration": 1206.996167,
+  "total_clip_bytes": 347955914,
+  "subtitle_source": "YouTube English track",
+  "resolution": "1280x720"
+}

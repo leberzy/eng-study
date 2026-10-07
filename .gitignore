@@ -1,0 +1,52 @@
+# macOS / local state
+.DS_Store
+.local/
+__pycache__/
+*.py[cod]
+.venv*/
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+cookies*.txt
+*cookies*.json
+
+# Video, audio and fonts remain local
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# Generated caches and renders
+**/.thumbnails/
+**/.waveform-cache/
+**/snapshots/
+**/renders/
+*.log
+**/.tools/*
+!**/.tools/*.py
+
+# Keep authoring/verification scripts and selected reports, not Studio caches
+**/.hyperframes/**
+!**/.hyperframes/
+!**/.hyperframes/**/
+!**/.hyperframes/**/*.py
+!**/.hyperframes/**/export-verification.json
+!**/.hyperframes/**/complex-export-verification.json
+!**/.hyperframes/**/review.json
+!**/.hyperframes/**/alignment.json
+!**/.hyperframes/**/字幕校对与素材核查.md
+**/.hyperframes-check.json
+
+# Compatibility links exist outside the repository and are not tracked

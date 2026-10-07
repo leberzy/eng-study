@@ -1,0 +1,92 @@
+{
+  "assets": [
+    {
+      "path": "source.mp4",
+      "source": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/preview/01-back-in-china-Punctuated-Preview.mp4",
+      "sha256": "f00235d49c6a76b1d79cb35bb523847749cd34a14e0eb11f7db4275671ca808d",
+      "bytes": 6503317,
+      "width": 1280,
+      "height": 720,
+      "duration_seconds": 22.655967,
+      "identical_to_source": true
+    },
+    {
+      "path": "source-audio.wav",
+      "source": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/preview/01-back-in-china-Punctuated-Preview.mp4",
+      "sha256": "70b0a5b4af7fad31ec9a1a69b4dc6b835550a7d1a33d96441c6b4d4ddba038eb",
+      "bytes": 4346958,
+      "source_range_seconds": [
+        0,
+        22.64
+      ],
+      "duration_seconds": 22.64,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 2,
+      "bits_per_sample": 16,
+      "tts": false
+    },
+    {
+      "path": "voice-1.wav",
+      "source": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/preview/01-back-in-china-Punctuated-Preview.mp4",
+      "sha256": "9bd09a1528918a89a516bab026b0e2a48b5193380780b98bf7a15c58fec1ce60",
+      "bytes": 218958,
+      "source_range_seconds": [
+        0.96,
+        2.1
+      ],
+      "duration_seconds": 1.14,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 2,
+      "bits_per_sample": 16,
+      "tts": false
+    },
+    {
+      "path": "voice-2.wav",
+      "source": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/preview/01-back-in-china-Punctuated-Preview.mp4",
+      "sha256": "cf9122fba89fea288005afa7eb6ebb402d27694962f155107e0afdddb9b630f7",
+      "bytes": 372750,
+      "source_range_seconds": [
+        4.319,
+        6.26
+      ],
+      "duration_seconds": 1.941,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 2,
+      "bits_per_sample": 16,
+      "tts": false
+    },
+    {
+      "path": "voice-3.wav",
+      "source": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/preview/01-back-in-china-Punctuated-Preview.mp4",
+      "sha256": "f9f94507d36dfdc1c3978021312191135649e2b48b0a081e868c771a4b49d6d5",
+      "bytes": 341838,
+      "source_range_seconds": [
+        20.84,
+        22.62
+      ],
+      "duration_seconds": 1.78,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 2,
+      "bits_per_sample": 16,
+      "tts": false
+    },
+    {
+      "path": "fonts/NotoSansSC.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+      "license_path": "fonts/OFL.txt",
+      "license": "SIL Open Font License 1.1",
+      "embedding_fsType": 0,
+      "weight_axis": [
+        100,
+        900
+      ],
+      "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "bytes": 17772300,
+      "glyphs_modified": false
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "folk-01",
+    "title": "地点：来到成都的新景区",
+    "source_sentence": "We have just entered our next spot in the middle of Chengdu, and it's this beautiful scenic area.",
+    "source_time_hint": "00:00.000–00:05.039",
+    "pairs": [
+      ["We have just <b>entered</b> our next spot,", "我们刚刚<b>来到</b>下一站，"],
+      ["in the <b>middle of Chengdu</b>,", "位于<b>成都市区中部</b>，"],
+      ["and it's this beautiful <b>scenic area</b>.", "而这里是一处美丽的<b>景区</b>。"]
+    ],
+    "words": [["entered", "来到"], ["middle of Chengdu", "成都市区中部"], ["scenic area", "景区"]],
+    "note": "spot 在这里指旅行中的“景点、下一站”。"
+  },
+  {
+    "id": "folk-02",
+    "title": "期待：再过几分钟就能看到民乐",
+    "source_sentence": "And I think, in a few minutes' time, we're going to be able to see some Chinese folk music.",
+    "source_time_hint": "00:05.079–00:09.839",
+    "pairs": [
+      ["And I think, in <b>a few minutes' time</b>,", "我想，<b>再过几分钟</b>，"],
+      ["we're going to <b>be able to see</b> some <b>Chinese folk music</b>.", "我们就<b>能看到</b>一些<b>中国民乐</b>。"]
+    ],
+    "words": [["in a few minutes' time", "再过几分钟"], ["be able to", "能够"], ["folk music", "民乐、民间音乐"]],
+    "note": "be going to 表示将要发生的事；be able to 表示“能够”。"
+  },
+  {
+    "id": "folk-03",
+    "title": "回忆：第一次旅行没看过民乐",
+    "source_sentence": "Now, I never saw Chinese folk music on my first trip, so quite excited to see it here.",
+    "source_time_hint": "00:09.879–00:17.650",
+    "pairs": [
+      ["Now, I never saw Chinese folk music on my <b>first trip</b>,", "我<b>第一次旅行</b>时没看过中国民乐，"],
+      ["so <b>quite excited</b> to see it here.", "所以这次能在这里看到，我<b>挺期待</b>。"]
+    ],
+    "words": [["first trip", "第一次旅行"], ["quite excited", "挺期待、相当兴奋"]],
+    "note": "so quite excited 是自然口语中的省略，完整表达可以说 so I'm quite excited。"
+  },
+  {
+    "id": "folk-04",
+    "title": "环境：树木和乐器增添氛围（1/2）",
+    "source_sentence": "The instruments make such a beautiful sound, and being surrounded by all these trees and this beautiful Chinese architecture in this area just, like, adds to that atmosphere.",
+    "source_time_hint": "00:24.480–00:35.240",
+    "pairs": [
+      ["The <b>instruments</b> make such a <b>beautiful sound</b>,", "这些<b>乐器</b>发出的声音如此<b>优美</b>，"],
+      ["and being <b>surrounded by</b> all these trees", "而且被这些树木<b>环绕</b>"]
+    ],
+    "words": [["instruments", "乐器"], ["beautiful sound", "优美的声音"], ["surrounded by", "被……环绕"]],
+    "note": "下一页继续同一句；being surrounded by 描述身处其中的环境。",
+    "continuation": "1/2"
+  },
+  {
+    "id": "folk-05",
+    "title": "环境：树木和建筑增添氛围（2/2）",
+    "source_sentence": "The instruments make such a beautiful sound, and being surrounded by all these trees and this beautiful Chinese architecture in this area just, like, adds to that atmosphere.",
+    "source_time_hint": "00:24.480–00:35.240",
+    "pairs": [
+      ["and this beautiful Chinese <b>architecture</b>,", "以及这些美丽的中国<b>建筑</b>，"],
+      ["in this area just, like, <b>adds to that atmosphere</b>.", "在这里就仿佛<b>增添了这种氛围</b>。"]
+    ],
+    "words": [["architecture", "建筑、建筑风格"], ["add to", "增添、增强"], ["atmosphere", "气氛、氛围"]],
+    "note": "just, like 是口语填充语；add to 表示“给原有氛围再增添一些感觉”。",
+    "continuation": "2/2"
+  },
+  {
+    "id": "folk-06",
+    "title": "体验：音乐结束后可以试奏乐器（1/2）",
+    "source_sentence": "Okay, that was so awesome, so after the music we were able to try and, like, play the instruments, and that, like, violin kind of thing was incredible.",
+    "source_time_hint": "00:55.040–01:02.720",
+    "pairs": [
+      ["Okay, that was so <b>awesome</b>.", "好了，刚才真的太<b>棒了</b>。"],
+      ["So, after the music, we were <b>able to try</b>", "音乐结束后，我们<b>可以试着</b>"],
+      ["and, like, <b>play the instruments</b>,", "<b>演奏这些乐器</b>，"]
+    ],
+    "words": [["awesome", "很棒的、令人赞叹的"], ["able to try", "可以尝试"], ["play the instruments", "演奏乐器"]],
+    "note": "after the music 表示“音乐结束后”；like 在这里是口语填充语。"
+  },
+  {
+    "id": "folk-07",
+    "title": "体验：那个像小提琴的东西很神奇（2/2）",
+    "source_sentence": "Okay, that was so awesome, so after the music we were able to try and, like, play the instruments, and that, like, violin kind of thing was incredible.",
+    "source_time_hint": "00:55.040–01:02.720",
+    "pairs": [
+      ["and that, like, <b>violin kind of thing</b>", "而那个<b>有点像小提琴的东西</b>"],
+      ["was <b>incredible</b>.", "真的<b>很神奇</b>。"]
+    ],
+    "words": [["kind of thing", "那一类的东西，表示不确定准确名称"], ["incredible", "令人惊叹的、很神奇的"]],
+    "note": "kind of thing 表示说话者不确定乐器的准确名称。",
+    "continuation": "2/2"
+  },
+  {
+    "id": "folk-08",
+    "title": "细节：动作稍有不同，声音就不同",
+    "source_sentence": "You have to be so delicate on all the strings because a slight different movement, and it makes a completely different sound.",
+    "source_time_hint": "01:02.760–01:08.919",
+    "pairs": [
+      ["You have to be so <b>delicate</b> on all the <b>strings</b>", "拨弄这些<b>弦</b>时必须非常<b>轻巧</b>"],
+      ["because a <b>slight different movement</b>,", "因为动作稍有<b>不同</b>，"],
+      ["and it makes a <b>completely different sound</b>.", "发出的就是<b>完全不同的声音</b>。"]
+    ],
+    "words": [["delicate", "动作轻巧、细致"], ["strings", "乐器的弦"], ["completely different", "完全不同的"]],
+    "note": "原话是 a slight different movement；更自然的表达是 a slightly different movement。"
+  },
+  {
+    "id": "folk-09",
+    "title": "评价：挺让人困惑，但很好玩",
+    "source_sentence": "Very confusing, but yeah, good fun.",
+    "source_time_hint": "01:08.959–01:12.880",
+    "pairs": [
+      ["<b>Very confusing</b>,", "真的<b>让人摸不着头脑</b>，"],
+      ["but yeah, <b>good fun</b>.", "不过，确实<b>很好玩</b>。"]
+    ],
+    "words": [["confusing", "让人困惑的"], ["good fun", "很好玩、有趣"]],
+    "note": "good fun 是常见的口语表达，意思是“很有趣、很好玩”。"
+  },
+  {
+    "id": "folk-10",
+    "title": "历史：景区有一千年历史",
+    "source_sentence": "This beautiful scenic area is actually a thousand years old, and it used to be a private land, a private park.",
+    "source_time_hint": "01:16.080–01:23.680",
+    "pairs": [
+      ["This beautiful <b>scenic area</b> is actually <b>a thousand years old</b>,", "这处美丽的<b>景区</b>其实已经<b>有一千年历史</b>，"],
+      ["and it <b>used to be</b> a private land, a private park.", "过去曾是<b>私人土地</b>、一座<b>私人园林</b>。"]
+    ],
+    "words": [["scenic area", "景区"], ["a thousand years old", "有一千年历史"], ["used to be", "过去曾经是"]],
+    "note": "used to be 表示过去的状态；private land 和 private park 都表示不对公众开放。"
+  },
+  {
+    "id": "folk-11",
+    "title": "开放：过去不对公众开放（1/2）",
+    "source_sentence": "It wasn't open to the public, but it was owned by the government, and the government were able to come around and just relax in this beautiful area.",
+    "source_time_hint": "01:23.720–01:33.440",
+    "pairs": [
+      ["It wasn't <b>open to the public</b>,", "它当时<b>不对公众开放</b>，"],
+      ["but it was <b>owned by the government</b>,", "而是<b>归政府所有</b>，"]
+    ],
+    "words": [["open to the public", "对公众开放"], ["owned by", "归……所有"]],
+    "note": "was owned by 是被动表达，说明这片地方归谁所有。",
+    "continuation": "1/2"
+  },
+  {
+    "id": "folk-12",
+    "title": "开放：政府可以来这里休息（2/2）",
+    "source_sentence": "It wasn't open to the public, but it was owned by the government, and the government were able to come around and just relax in this beautiful area.",
+    "source_time_hint": "01:23.720–01:38.760",
+    "pairs": [
+      ["and the government were able to <b>come around</b>", "政府方面的人可以<b>过来</b>"],
+      ["and just <b>relax</b> in this beautiful area.", "在这片美丽的地方<b>放松休息</b>。"]
+    ],
+    "words": [["come around", "过来、到访"], ["relax", "放松、休息"]],
+    "note": "come around 在这里指到这个地方来，不是“改变主意”。",
+    "continuation": "2/2"
+  }
+]

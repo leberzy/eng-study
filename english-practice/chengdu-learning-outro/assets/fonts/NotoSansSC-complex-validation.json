@@ -1,0 +1,31 @@
+{
+  "path": "/Users/mac/Documents/英语学习/english-practice/chengdu-learning-outro/assets/fonts/NotoSansSC-complex.woff2",
+  "bytes": 73068,
+  "size_kib": 71.4,
+  "characters": 218,
+  "cjk_characters": 90,
+  "missing_characters": [],
+  "outline_verified_weights": [
+    100,
+    400,
+    600,
+    700,
+    900
+  ],
+  "all_outlines_identical": true,
+  "weight_axis": [
+    [
+      "wght",
+      100.0,
+      900.0
+    ]
+  ],
+  "source_ttf_unchanged": true,
+  "old_subset_unchanged": true,
+  "sha256": "1838105a153d15a2541471d619313fbdc647975f66f47b3491c3cd34c3a53454",
+  "html_sources": [
+    "compositions/complex-01.html",
+    "compositions/complex-02.html",
+    "compositions/complex-03.html"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "spec": "v1.2",
+  "page_count": 12,
+  "seconds_per_page": 5,
+  "source_range": [218.08, 316.88],
+  "source_duration": 98.8,
+  "outro_duration": 60,
+  "composition_duration": 158.8,
+  "check_ok": true,
+  "all_pages_reviewed": true,
+  "fonts_missing_glyphs": 0,
+  "preview_status": "exported_and_verified",
+  "preview_url": "http://localhost:3043/#project/chengdu-folk-music-learning",
+  "output": "/Users/mac/Documents/英语学习/media/Chengdu-English-Practice/preview/03-chinese-folk-music-Complex-Sentences.mp4",
+  "output_size_bytes": 44095431,
+  "output_video": "1280x720, 30fps, H.264",
+  "output_audio": "source audio retained; outro silent",
+  "whole_file_decode": "passed",
+  "audio_correlation_range": [0.99952, 0.999841],
+  "export_verification": ".hyperframes/export-verification.json"
+}

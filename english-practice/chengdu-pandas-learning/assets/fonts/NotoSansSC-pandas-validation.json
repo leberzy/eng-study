@@ -1,0 +1,45 @@
+{
+  "path": "/Users/mac/Documents/英语学习/english-practice/chengdu-pandas-learning/assets/fonts/NotoSansSC-pandas.woff2",
+  "bytes": 91600,
+  "size_kib": 89.5,
+  "characters": 408,
+  "cjk_characters": 280,
+  "missing_characters": [],
+  "outline_verified_weights": [
+    100,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+  ],
+  "all_outlines_identical": true,
+  "weight_axis": [
+    [
+      "wght",
+      100.0,
+      900.0
+    ]
+  ],
+  "final_html_sources": [
+    "compositions/pandas-01.html",
+    "compositions/pandas-02.html",
+    "compositions/pandas-03.html",
+    "compositions/pandas-04.html",
+    "compositions/pandas-05.html",
+    "compositions/pandas-06.html",
+    "compositions/pandas-07.html",
+    "compositions/pandas-08.html",
+    "compositions/pandas-09.html",
+    "compositions/pandas-10.html",
+    "compositions/pandas-vocab-01.html",
+    "compositions/pandas-vocab-02.html",
+    "compositions/pandas-vocab-03.html",
+    "compositions/pandas-vocab-04.html",
+    "compositions/pandas-vocab-05.html",
+    "compositions/pandas-vocab-06.html",
+    "compositions/pandas-vocab-07.html"
+  ],
+  "sha256": "efc72ab33ed4677b814bd6438f559a009782286a5c1fb8ac53f2f545b6c2c560"
+}

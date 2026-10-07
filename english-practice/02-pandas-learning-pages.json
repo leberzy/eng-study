@@ -1,0 +1,294 @@
+[
+  {
+    "id": "pandas-01",
+    "title": "感叹：真的太逗了",
+    "source_sentence": "Can't get over how funny the pandas actually are.",
+    "source_time_hint": "00:53.840–00:56.760",
+    "pairs": [
+      [
+        "<b>Can't get over</b>",
+        "我一直觉得<b>不可思议</b>，"
+      ],
+      [
+        "how <b>funny</b> the pandas actually are.",
+        "这些熊猫真的太<b>逗</b>了。"
+      ]
+    ],
+    "words": [
+      [
+        "can't get over",
+        "对某事一直感到惊讶、难以相信"
+      ],
+      [
+        "funny",
+        "好笑的；逗趣的"
+      ]
+    ],
+    "note": "口语省略了 I；how 表示“多么”，引出感叹。"
+  },
+  {
+    "id": "pandas-02",
+    "title": "补充：只有手机重量的三分之一",
+    "source_sentence": "It was actually only 42 grams, which is about a third of how much my iPhone weighs.",
+    "source_time_hint": "01:14.759–01:20.960",
+    "pairs": [
+      [
+        "It was actually only 42 <b>grams</b>,",
+        "它当时其实只有42<b>克</b>，"
+      ],
+      [
+        "which is about <b>a third</b> of how much my iPhone <b>weighs</b>.",
+        "大约是我这部iPhone<b>重量</b>的<b>三分之一</b>。"
+      ]
+    ],
+    "words": [
+      [
+        "grams",
+        "克；重量单位"
+      ],
+      [
+        "a third",
+        "三分之一"
+      ],
+      [
+        "weighs",
+        "有多重；这里说手机的重量"
+      ]
+    ],
+    "note": "which 指前面的42克；how much…weighs 表示有多重。"
+  },
+  {
+    "id": "pandas-03",
+    "title": "假设：如果它出生在野外",
+    "source_sentence": "And if she was in the the wild, she would not have been cared for.",
+    "source_time_hint": "01:29.200–01:31.720",
+    "pairs": [
+      [
+        "And if she was <b>in the the wild</b>,",
+        "而且如果它当时在<b>野外</b>，"
+      ],
+      [
+        "she would not have been <b>cared for</b>.",
+        "就不会<b>得到照顾</b>。"
+      ]
+    ],
+    "words": [
+      [
+        "in the wild",
+        "在野外"
+      ],
+      [
+        "be cared for",
+        "得到照顾；被照料"
+      ]
+    ],
+    "note": "原话保留重复的 the；in the wild 表示“在野外”。"
+  },
+  {
+    "id": "pandas-04",
+    "title": "假设：要不是这些保护项目",
+    "source_sentence": "But if it wasn't for all these programs, the giant pandas probably would have gone extinct.",
+    "source_time_hint": "01:42.840–01:51.880",
+    "pairs": [
+      [
+        "But <b>if it wasn't for</b> all these programs,",
+        "但<b>要不是有</b>这些保护项目，"
+      ],
+      [
+        "the giant pandas probably would have <b>gone extinct</b>.",
+        "大熊猫很可能早就<b>灭绝</b>了。"
+      ]
+    ],
+    "words": [
+      [
+        "if it wasn't for",
+        "要不是有……"
+      ],
+      [
+        "gone extinct",
+        "已经灭绝；go extinct 的完成形式"
+      ]
+    ],
+    "note": "if it wasn’t for 表示“要不是有……”；后面是假设的结果。"
+  },
+  {
+    "id": "pandas-05",
+    "title": "原因：为什么难以放归（1/2）",
+    "source_sentence": "But it is very hard to reintroduce them to the wild because, obviously, they're very used to being fed here in captivity.",
+    "source_time_hint": "02:00.000–02:06.159",
+    "pairs": [
+      [
+        "But it is <b>very hard</b>",
+        "不过，这<b>非常困难</b>："
+      ],
+      [
+        "to <b>reintroduce</b> them to <b>the wild</b>",
+        "把它们<b>重新放归</b>到<b>野外</b>，"
+      ]
+    ],
+    "words": [
+      [
+        "very hard",
+        "非常困难"
+      ],
+      [
+        "reintroduce",
+        "重新引入；这里指放归"
+      ],
+      [
+        "the wild",
+        "野外；自然环境"
+      ]
+    ],
+    "note": "本句下页继续，because 引出原因。",
+    "continuation": "1/2"
+  },
+  {
+    "id": "pandas-06",
+    "title": "原因：已经习惯被喂食（2/2）",
+    "source_sentence": "But it is very hard to reintroduce them to the wild because, obviously, they're very used to being fed here in captivity.",
+    "source_time_hint": "02:00.000–02:06.159",
+    "pairs": [
+      [
+        "because, obviously,",
+        "因为很明显，"
+      ],
+      [
+        "they're very <b>used to being fed</b> here <b>in captivity</b>.",
+        "它们在这里<b>被圈养</b>，已经很<b>习惯被人喂食</b>。"
+      ]
+    ],
+    "words": [
+      [
+        "be used to doing",
+        "习惯做某事"
+      ],
+      [
+        "being fed",
+        "被喂食"
+      ],
+      [
+        "in captivity",
+        "在圈养状态下"
+      ]
+    ],
+    "note": "承接上一页；being fed 表示被动接受喂食。",
+    "continuation": "2/2"
+  },
+  {
+    "id": "pandas-07",
+    "title": "比较：小得多，却同样可爱",
+    "source_sentence": "These ones, I think, are a lot smaller, but I think they look equally as fluffy and cute.",
+    "source_time_hint": "02:18.280–02:23.879",
+    "pairs": [
+      [
+        "These ones, I think, are <b>a lot smaller</b>,",
+        "我觉得这些小熊猫<b>小得多</b>，"
+      ],
+      [
+        "but I think they look <b>equally as</b> <b>fluffy</b> and cute.",
+        "但我觉得它们看起来<b>同样</b><b>毛茸茸</b>、同样可爱。"
+      ]
+    ],
+    "words": [
+      [
+        "a lot smaller",
+        "小得多；a lot 加强比较"
+      ],
+      [
+        "equally as",
+        "同样地；这里表达程度相当"
+      ],
+      [
+        "fluffy",
+        "毛茸茸的；蓬松的"
+      ]
+    ],
+    "note": "but 表示转折；两处 I think 均保留。"
+  },
+  {
+    "id": "pandas-08",
+    "title": "范围：想去哪里就去哪里",
+    "source_sentence": "So, the red pandas can literally explore this whole area wherever they want.",
+    "source_time_hint": "02:28.000–02:31.760",
+    "pairs": [
+      [
+        "So, the red pandas can literally explore this <b>whole area</b>",
+        "所以，小熊猫真的可以在这<b>整片区域</b>活动，"
+      ],
+      [
+        "<b>wherever they want</b>.",
+        "<b>想去哪里就去哪里</b>。"
+      ]
+    ],
+    "words": [
+      [
+        "whole area",
+        "整片区域"
+      ],
+      [
+        "wherever they want",
+        "它们想去的任何地方"
+      ]
+    ],
+    "note": "wherever 强调去任何它们想去的地方。"
+  },
+  {
+    "id": "pandas-09",
+    "title": "转折：不知道在哪里，但希望能看到",
+    "source_sentence": "I don't know where we're going to see them, but they hopefully will come out at some point.",
+    "source_time_hint": "02:35.760–02:39.000",
+    "pairs": [
+      [
+        "I don't know where we're going to see them,",
+        "我不知道我们会在哪里看到它们，"
+      ],
+      [
+        "but they hopefully will <b>come out</b> <b>at some point</b>.",
+        "不过，希望它们会在<b>某个时候</b><b>出来</b>。"
+      ]
+    ],
+    "words": [
+      [
+        "come out",
+        "出来；现身"
+      ],
+      [
+        "at some point",
+        "某个时候；不指定具体时间"
+      ]
+    ],
+    "note": "where 引出不知道的地点；but 转入希望。"
+  },
+  {
+    "id": "pandas-10",
+    "title": "比较：关注少，却很可爱",
+    "source_sentence": "So, red pandas just don't get as much fuss compared to the giant pandas, but they are honestly so cute.",
+    "source_time_hint": "02:47.720–02:54.040",
+    "pairs": [
+      [
+        "So, red pandas just don't get as much <b>fuss</b>",
+        "小熊猫没有得到那么多<b>关注</b>，"
+      ],
+      [
+        "<b>compared to</b> the giant pandas,",
+        "<b>和大熊猫相比</b>，"
+      ],
+      [
+        "but they are honestly so cute.",
+        "不过，它们真的特别可爱。"
+      ]
+    ],
+    "words": [
+      [
+        "fuss",
+        "这里指关注、热情和追捧"
+      ],
+      [
+        "compared to",
+        "与……相比"
+      ]
+    ],
+    "note": "as much 表示同样多；这里的 fuss 不是责备或争吵。"
+  }
+]

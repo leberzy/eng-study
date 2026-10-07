@@ -1,0 +1,173 @@
+{
+  "planned_start_s": 22.64,
+  "planned_end_s": 218.08,
+  "planned_duration_s": 195.44,
+  "mp4_duration_s": 195.44,
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "mime_codec_string": "avc1.64003e",
+      "width": 1280,
+      "height": 720,
+      "coded_width": 1280,
+      "coded_height": 720,
+      "has_b_frames": 2,
+      "sample_aspect_ratio": "1:1",
+      "display_aspect_ratio": "16:9",
+      "pix_fmt": "yuv420p",
+      "level": 62,
+      "color_range": "tv",
+      "color_space": "bt709",
+      "color_transfer": "bt709",
+      "color_primaries": "bt709",
+      "chroma_location": "left",
+      "field_order": "progressive",
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "id": "0x1",
+      "r_frame_rate": "30000/1001",
+      "avg_frame_rate": "3660625/122122",
+      "time_base": "1/30000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 5861856,
+      "duration": "195.395200",
+      "bit_rate": "2483607",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "5857",
+      "extradata_size": 50,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "VideoHandler",
+        "encoder": "Lavc61.19.100 libx264"
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
+      "mime_codec_string": "mp4a.40.2",
+      "sample_fmt": "fltp",
+      "sample_rate": "44100",
+      "channels": 2,
+      "channel_layout": "stereo",
+      "bits_per_sample": 0,
+      "initial_padding": 1024,
+      "id": "0x2",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/44100",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 8618904,
+      "duration": "195.440000",
+      "bit_rate": "128378",
+      "nb_frames": "8418",
+      "extradata_size": 5,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "SoundHandler"
+      }
+    }
+  ],
+  "wav_duration_s": 195.44,
+  "wav_sample_rate_hz": "48000",
+  "wav_channels": 2,
+  "full_decode_exit_code": 0,
+  "full_decode_log_bytes": 0,
+  "subtitles_cues": 85,
+  "max_subtitle_lines": 2,
+  "max_line_characters": 47,
+  "subtitle_last_word": "them.",
+  "last_word_relative_start_s": 194.44,
+  "last_word_relative_end_s": 195.14,
+  "next_chapter_absolute_start_s": 218.08,
+  "screenshots": [
+    {
+      "path": "/Users/mac/Documents/英语学习/english-practice/chengdu-pandas-learning/.hyperframes/subtitle-build/source-sample-01.png",
+      "time": 2.0
+    },
+    {
+      "path": "/Users/mac/Documents/英语学习/english-practice/chengdu-pandas-learning/.hyperframes/subtitle-build/source-sample-02.png",
+      "time": 26.3
+    },
+    {
+      "path": "/Users/mac/Documents/英语学习/english-practice/chengdu-pandas-learning/.hyperframes/subtitle-build/source-sample-03.png",
+      "time": 49.1
+    },
+    {
+      "path": "/Users/mac/Documents/英语学习/english-practice/chengdu-pandas-learning/.hyperframes/subtitle-build/source-sample-04.png",
+      "time": 107.0
+    },
+    {
+      "path": "/Users/mac/Documents/英语学习/english-practice/chengdu-pandas-learning/.hyperframes/subtitle-build/source-sample-05.png",
+      "time": 148.0
+    },
+    {
+      "path": "/Users/mac/Documents/英语学习/english-practice/chengdu-pandas-learning/.hyperframes/subtitle-build/source-sample-06.png",
+      "time": 194.8
+    }
+  ],
+  "contact_sheet": "/Users/mac/Documents/英语学习/english-practice/chengdu-pandas-learning/.hyperframes/subtitle-build/source-contact-sheet.jpg",
+  "source_no_old_subtitles": "Only video/audio streams mapped; source mov_text stream excluded.",
+  "source_mp4_sha256": "0ad1bec2517ef0cd152f2d64584c6396fd74328c630c758a3c25285066c91f2a",
+  "subtitle_srt_sha256": "e88873ca264c84dff425f42297ba4f634cee6a33d909f72b693fe1ebedb8882f",
+  "verified_revision": "Semantic line wrapping + So at source 167.720 starts next sentence; atomic MP4 replacement.",
+  "uncertain_items": [
+    "Panda names at 71.040 and 86.079 seconds marked [name unclear].",
+    "Opening ASR very at 45.879 seconds marked [unclear].",
+    "Lexical corrections use existing transcript/context; not represented as new ASR or independent full audio review."
+  ]
+}

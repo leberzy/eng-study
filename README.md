@@ -1,21 +1,29 @@
 # 我的英语学习资料
 
-Git 只保存日常学习需要的资料：生词本、中英对照稿、章节笔记、英文字幕和制作规范。
+这个仓库只保存日常复习用的文字资料：每段的完整逐句中英稿、当前章节视频的句首时间，以及按学习日期整理的生词本。
 
-## 学习入口
+- [全局生词本](全局生词本.md)
+- [使用说明](使用说明.md)
 
-- [全局生词本](全局生词本.md)：按学习日期分组，记录词义、语境、出处和复习情况。
-- [生词本使用说明](使用说明.md)
-- [成都旅行学习目录](media/Chengdu-English-Practice/学习目录.md)：10 个章节的文案和本地视频入口。
-- [完整中英对照稿](english-practice/chengdu-transcript.md) · [完整英文稿](english-practice/chengdu-transcript-english.md) · [口语练习笔记](english-practice/chengdu-learning-notes.md)
-- [熊猫谷全句对照稿](english-practice/chengdu-pandas-learning/learning-notes-all.md) · [复杂句与生词](english-practice/chengdu-pandas-learning/learning-notes.md)
-- [中国民乐复杂句](english-practice/chengdu-folk-music-learning/03-chinese-folk-music-Complex-Sentences.md) · [本段生词](english-practice/chengdu-folk-music-learning/vocabulary-notes.md)
-- [英语学习视频制作规范](english-practice/英语学习视频制作规范.md)
+## 成都旅行 · 逐句稿
 
-## 保存范围
+每段单独一份，覆盖原片中的讲话。时间以该段视频的 **00:00** 为起点；每条按“时间 → 英文 → 中文”排列，不另列重点难点。
 
-每份学习文案只跟踪一个版本。视频工程、第三方库、制作脚本、计划、验收报告、重复导出稿和迁移记录保存在本地，不再纳入 Git。视频、音频、字体和缓存也只保存在本地。
+| 段落 | 内容 |
+| --- | --- |
+| 01 | [回到中国](逐句稿/成都旅行/01-回到中国.md) |
+| 02 | [熊猫谷](逐句稿/成都旅行/02-熊猫谷.md) |
+| 03 | [中国民乐](逐句稿/成都旅行/03-中国民乐.md) |
+| 04 | [金沙遗址博物馆](逐句稿/成都旅行/04-金沙遗址博物馆.md) |
+| 05 | [锦里街](逐句稿/成都旅行/05-锦里街.md) |
+| 06 | [洛带古镇与土楼](逐句稿/成都旅行/06-洛带古镇与土楼.md) |
+| 07 | [传统服饰与甜点](逐句稿/成都旅行/07-传统服饰与甜点.md) |
+| 08 | [成都火锅](逐句稿/成都旅行/08-成都火锅.md) |
+| 09 | [火锅表演与试吃](逐句稿/成都旅行/09-火锅表演与试吃.md) |
+| 10 | [告别成都](逐句稿/成都旅行/10-告别成都.md) |
 
-文档里的视频链接指向本地素材；从 Gitee 克隆仓库后，如需播放视频或继续制作，需要另行复制本地素材与工程。
+原视频：[Joel and Emilia · 成都旅行](https://www.youtube.com/watch?v=UqmPUsnWg14)。稿子保留博主的口语表达，未听清的位置明确标记。
 
-仓库：[Gitee · english-study](https://gitee.com/leberzy/english-study)，主分支为 `main`。后续推送须由用户明确要求，不主动推送，不重写远程历史。
+视频、字幕文件、制作工程、脚本、制作规范、计划、验收记录和旧版重复稿只保存在本地。它们不纳入 Git，也不会因为取消 Git 跟踪而从本地删除。
+
+仓库：[Gitee · english-study](https://gitee.com/leberzy/english-study)。后续推送由用户明确要求，不主动推送。

@@ -1,61 +1,19 @@
-# 本地状态、依赖和凭据
+# 只把日常复习资料纳入 Git；视频、工程、脚本和过程文件留在本地。
+/*
+!/.gitignore
+!/AGENTS.md
+!/README.md
+!/使用说明.md
+!/全局生词本.md
+!/逐句稿/
+
+# 逐句稿目录只收录 Markdown 学习文案。
+/逐句稿/**
+!/逐句稿/**/
+!/逐句稿/**/*.md
+
 .DS_Store
-.local/
-__pycache__/
-*.py[cod]
-.venv*/
-node_modules/
 .env
 .env.*
-.idea
-!.env.example
 *.pem
 *.key
-cookies*.txt
-*cookies*.json
-
-# 视频、音频、字体与渲染缓存仅保存在本地
-*.mp4
-*.mov
-*.mkv
-*.webm
-*.wav
-*.mp3
-*.m4a
-*.aac
-*.flac
-*.ttf
-*.otf
-*.woff
-*.woff2
-*.log
-**/.thumbnails/
-**/.waveform-cache/
-**/snapshots/
-**/renders/
-
-# 制作工程、脚本和过程记录仅保存在本地
-/docs/
-/english-practice/**
-!/english-practice/**/
-!/english-practice/AGENTS.md
-!/english-practice/英语学习视频制作规范.md
-!/english-practice/chengdu-transcript.md
-!/english-practice/chengdu-transcript-english.md
-!/english-practice/chengdu-learning-notes.md
-!/english-practice/*/learning-notes*.md
-!/english-practice/*/vocabulary-notes.md
-!/english-practice/chengdu-folk-music-learning/03-chinese-folk-music-Complex-Sentences.md
-/english-practice/chengdu-folk-music-learning/learning-notes.md
-
-# 媒体目录只保存学习入口、章节文案和必要字幕
-/media/**
-!/media/**/
-!/media/Chengdu-English-Practice/学习目录.md
-!/media/Chengdu-English-Practice/source/original.en.srt
-!/media/Chengdu-English-Practice/clips/*.md
-!/media/Chengdu-English-Practice/clips/*.srt
-!/media/Chengdu-English-Practice/preview/01-back-in-china-Complex-Sentences.md
-!/media/Chengdu-English-Practice/preview/01-back-in-china-Punctuated-Preview.srt
-!/media/Chengdu-English-Practice/preview/02-pandas-Complex-Sentences-With-Vocabulary.srt
-!/media/Chengdu-English-Practice/preview/03-chinese-folk-music-Complex-Sentences.srt

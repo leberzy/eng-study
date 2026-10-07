@@ -1,4 +1,4 @@
-# macOS / local state
+# 本地状态、依赖和凭据
 .DS_Store
 .local/
 __pycache__/
@@ -13,7 +13,7 @@ node_modules/
 cookies*.txt
 *cookies*.json
 
-# Video, audio and fonts remain local
+# 视频、音频、字体与渲染缓存仅保存在本地
 *.mp4
 *.mov
 *.mkv
@@ -27,26 +27,34 @@ cookies*.txt
 *.otf
 *.woff
 *.woff2
-
-# Generated caches and renders
+*.log
 **/.thumbnails/
 **/.waveform-cache/
 **/snapshots/
 **/renders/
-*.log
-**/.tools/*
-!**/.tools/*.py
 
-# Keep authoring/verification scripts and selected reports, not Studio caches
-**/.hyperframes/**
-!**/.hyperframes/
-!**/.hyperframes/**/
-!**/.hyperframes/**/*.py
-!**/.hyperframes/**/export-verification.json
-!**/.hyperframes/**/complex-export-verification.json
-!**/.hyperframes/**/review.json
-!**/.hyperframes/**/alignment.json
-!**/.hyperframes/**/字幕校对与素材核查.md
-**/.hyperframes-check.json
+# 制作工程、脚本和过程记录仅保存在本地
+/docs/
+/english-practice/**
+!/english-practice/**/
+!/english-practice/AGENTS.md
+!/english-practice/英语学习视频制作规范.md
+!/english-practice/chengdu-transcript.md
+!/english-practice/chengdu-transcript-english.md
+!/english-practice/chengdu-learning-notes.md
+!/english-practice/*/learning-notes*.md
+!/english-practice/*/vocabulary-notes.md
+!/english-practice/chengdu-folk-music-learning/03-chinese-folk-music-Complex-Sentences.md
+/english-practice/chengdu-folk-music-learning/learning-notes.md
 
-# Compatibility links exist outside the repository and are not tracked
+# 媒体目录只保存学习入口、章节文案和必要字幕
+/media/**
+!/media/**/
+!/media/Chengdu-English-Practice/学习目录.md
+!/media/Chengdu-English-Practice/source/original.en.srt
+!/media/Chengdu-English-Practice/clips/*.md
+!/media/Chengdu-English-Practice/clips/*.srt
+!/media/Chengdu-English-Practice/preview/01-back-in-china-Complex-Sentences.md
+!/media/Chengdu-English-Practice/preview/01-back-in-china-Punctuated-Preview.srt
+!/media/Chengdu-English-Practice/preview/02-pandas-Complex-Sentences-With-Vocabulary.srt
+!/media/Chengdu-English-Practice/preview/03-chinese-folk-music-Complex-Sentences.srt

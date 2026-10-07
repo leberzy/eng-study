@@ -38,3 +38,5 @@ Git 保存生词本、复习记录、中英文案、字幕、章节时间、制�
 ## 迁移兼容
 
 此前 `/Users/mac/Documents/misc/english-practice` 和 `/Users/mac/Downloads/Chengdu-English-Practice` 保留为指向本目录的符号链接，旧对话中的文件链接仍可使用。后续新资料统一写入本目录。
+
+详见 [目录迁移说明](docs/目录迁移说明.md)。

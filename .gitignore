@@ -7,6 +7,7 @@ __pycache__/
 node_modules/
 .env
 .env.*
+.idea
 !.env.example
 *.pem
 *.key

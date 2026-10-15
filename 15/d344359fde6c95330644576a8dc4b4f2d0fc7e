@@ -1,0 +1,14 @@
+.gitignore
+  h_91a2222d7366ec 1,9,16-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "15d344359fde6c95330644576a8dc4b4f2d0fc7e",
+  "prompts": {},
+  "humans": {
+    "h_91a2222d7366ec": {
+      "author": "yangzheng <yangzheng@51shebao.com>"
+    }
+  }
+}

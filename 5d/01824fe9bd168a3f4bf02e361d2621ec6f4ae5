@@ -1,0 +1,14 @@
+AGENTS.md
+  h_91a2222d7366ec 8-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5d01824fe9bd168a3f4bf02e361d2621ec6f4ae5",
+  "prompts": {},
+  "humans": {
+    "h_91a2222d7366ec": {
+      "author": "yangzheng <yangzheng@51shebao.com>"
+    }
+  }
+}

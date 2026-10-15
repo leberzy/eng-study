@@ -1,0 +1,42 @@
+.gitignore
+  h_91a2222d7366ec 1-17
+chapters.ffmeta
+  h_91a2222d7366ec 1-39
+"chapters/01 - Choosing an accent.srt"
+  h_91a2222d7366ec 1-171
+"chapters/02 - Shadowing and techniques.srt"
+  h_91a2222d7366ec 1-115
+"chapters/03 - Practicing specific sounds.srt"
+  h_91a2222d7366ec 1-120
+"chapters/04 - Focus on communication.srt"
+  h_91a2222d7366ec 1-121
+"chapters/05 - Overcoming learning hurdles.srt"
+  h_91a2222d7366ec 1-161
+"chapters/06 - Conclusion and closing.srt"
+  h_91a2222d7366ec 1-83
+"raw/Speaking English at a Native Speed 🇺🇸 ｜ How I got an American Accent.en-orig.srt"
+  h_91a2222d7366ec 1-3215
+"raw/Speaking English at a Native Speed 🇺🇸 ｜ How I got an American Accent.en.srt"
+  h_91a2222d7366ec 1-5504
+transcript-bilingual.md
+  h_91a2222d7366ec 1-168
+transcript-bilingual.srt
+  h_91a2222d7366ec 1-749
+transcript.clean.srt
+  h_91a2222d7366ec 1-598
+transcript.md
+  h_91a2222d7366ec 1-279
+vocabulary.md
+  h_91a2222d7366ec 1-214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5f3612381f5540a48b83e8ff87ecf19be7107010",
+  "prompts": {},
+  "humans": {
+    "h_91a2222d7366ec": {
+      "author": "yangzheng <yangzheng@51shebao.com>"
+    }
+  }
+}
